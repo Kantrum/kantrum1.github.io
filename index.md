@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://https://kantrum.github.io/caihanlin.jpg" class="floatpic" width="360" height="480">
 
 Here is **Jiongtao Huang (Simon, 黄炯涛)**.
 
@@ -48,4 +48,3 @@ My current research focuses on practical problems that artificial intelligence f
 - **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
 
 <br>
-
