@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://https://kantrum.github.io/huangjiongtao.png" class="floatpic" width="360" height="480">
+<img src="https://https://kantrum.github.io/huangjiongtao.jpg" class="floatpic" width="360" height="480">
 
 Here is **Jiongtao Huang (Simon, 黄炯涛)**.
 
