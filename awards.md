@@ -20,18 +20,23 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 
 ## Competitions
 
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
 - Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling<br>
+- **December 2023:** Attained the bronze medal at the national level in the China International Student Innovation Competition (2023).
+- **August 2023:** Attained the provincial gold medal in the Ninth China International "Internet +" Student Innovation and Entrepreneurship Competition.
+- **August 2023:** Attained the provincial silver prize in the Ninth China International 'Internet +' Innovation and Entrepreneurship Competition for College Students.
+- **August 2023:** Attained the provincial bronze prize in the 9th China International 'Internet +' Innovation and Entrepreneurship Competition for College Students.
+- **August 2023:** Attained the third prize at the national level in the Sixth China University Intelligent Robot Creativity Competition.
+- **July 2023:** Attained the first prize at the national level in the 16th China University Student Computer Design Competition.
+- **July 2023:** Attained the second prize at the provincial level in the Second China University Intelligent Robot Creativity Competition in Sichuan Province.
+- **July 2023:** Attained the gold prize at the university level in the Ninth China International 'Internet +' Innovation and Entrepreneurship Competition for College Students.
+- **July 2023:** Attained the gold Medal at the university level in the Ninth China International 'Internet +' Innovation and Entrepreneurship Competition for College Students.
+- **July 2023:** Attained the gold prize at the university level in the Ninth China International 'Internet +' Innovation and Entrepreneurship Competition for College Students.
+- **July 2023:** Attained the silver prize at the school level in the Ninth China International 'Internet +' Innovation and Entrepreneurship Competition for College Students.
+- **May 2023:** Attained the First Prize in the 14th National University Students' Market Research and Analysis Competition, "Zhengda Cup".
+- **May 2023:** Attained the second Prize at the Provincial Level in the 16th China University Student Computer Design Competition.
+- **May 2023:** Attained the third prize at the Provincial Level in the 16th China University Student Computer Design Competition.
+- **May 2023:** Attained the third prize at the Provincial Level in the 17th 'Challenge Cup' Extracurricular Academic and Technological Works Competition for College Students.
+- **April 2023:** Attained the Bronze Prize in the 18th Challenge Cup Extracurricular Academic and Scientific and Technological Works Competition for Undergraduates of Southwest Jiaotong University.
 
 ## Honors
 
