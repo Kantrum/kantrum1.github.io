@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://https://kantrum.github.io/huangjiongtao.jpg" class="floatpic" width="360" height="480">
+<img src="https://https://kantrum.github.io/caihanlin.jpg" class="floatpic" width="360" height="480">
 
 Meet **Jiongtao Huang (Simon, 黄炯涛)**, an ambitious and multifaceted individual.
 
