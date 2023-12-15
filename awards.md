@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: Academic
 ---
 
 Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
